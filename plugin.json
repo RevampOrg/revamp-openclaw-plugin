@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "revamp",
+  "version": "1.0.0",
+  "description": "Create or redesign websites and build web apps by chatting with Revamp. Start, preview, and refine projects in the same conversation.",
+  "author": {"name": "Revamp Staff", "email": "contact@revamp.dev"},
+  "homepage": "https://revamp.dev/",
+  "license": "MIT",
+  "keywords": ["website-builder", "website-redesign", "web-app", "mcp"]
+}
