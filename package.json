@@ -1,0 +1,9 @@
+{
+  "name": "@revamp-staff/revamp",
+  "version": "1.0.0",
+  "description": "Create or redesign websites and build web apps by chatting with Revamp. Start, preview, and refine projects in the same conversation.",
+  "author": "Revamp Staff <contact@revamp.dev>",
+  "license": "MIT",
+  "homepage": "https://revamp.dev/",
+  "keywords": ["revamp", "website-builder", "website-redesign", "web-app", "mcp"]
+}
